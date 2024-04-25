@@ -22,8 +22,8 @@ table =3
 for x in range(1,11):  #range(1,n+1) means it will go upto the 11
     if x == 5:
         continue
-    #print(table , 'X', x, '=', table * x)
-    print(table * x)
+    print(table , 'X', x, '=', table * x)
+  #  print(table * x)
 
 #Problem: Reverse a string using a loop.
 username="Bharani"  
